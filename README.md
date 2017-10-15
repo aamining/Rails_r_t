@@ -1,6 +1,6 @@
 # README
 
-The foloowoing gems are installed:
+Gems included:
 
 ```
 gem 'bootstrap-sass'
