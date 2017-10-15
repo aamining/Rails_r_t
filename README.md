@@ -2,6 +2,7 @@
 
 The foloowoing gems are installed:
 
+```
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'simple_form'
@@ -13,3 +14,5 @@ gem 'cancancan'
 gem 'rolify'
 gem 'record_tag_helper', '~> 1.0'
 gem 'geocoder'
+
+```
